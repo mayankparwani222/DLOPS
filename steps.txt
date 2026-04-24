@@ -1,0 +1,15 @@
+
+create venv
+
+create template.py
+
+python template.py
+
+
+src > cnnClassifier > constants > in init.py data add
+
+src > cnnClassifier > __init__.py data add
+
+main.py
+
+python main.py 
