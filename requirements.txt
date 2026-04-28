@@ -1,8 +1,8 @@
-tensorflow
+tensorflow==2.10.0
 pandas 
 dvc
 notebook
-numpy
+numpy==1.23.5
 matplotlib
 seaborn
 python-box==6.0.2
