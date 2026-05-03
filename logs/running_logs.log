@@ -83,3 +83,42 @@ x==========x]
 [2026-04-29 10:42:27,713 : INFO: main: >>>>>> Prepare Base Model completed <<<<<<
 
 x==========x]
+[2026-04-30 11:00:12,468 : INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-04-30 11:00:12,504 : INFO: common: YAML file params.yaml loaded successfully]
+[2026-04-30 11:00:12,508 : INFO: common: created directory at: artifacts]
+[2026-04-30 11:00:12,514 : INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2026-04-30 11:00:12,517 : INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2026-05-01 11:04:03,830 : INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-05-01 11:04:03,860 : INFO: common: YAML file params.yaml loaded successfully]
+[2026-05-01 11:04:03,865 : INFO: common: created directory at: artifacts]
+[2026-05-01 11:04:03,870 : INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2026-05-01 11:04:03,873 : INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2026-05-01 11:04:03,874 : INFO: common: created directory at: artifacts\training]
+[2026-05-03 15:22:27,612 : INFO: main: >>>>>> Data Ingestion Stage started <<<<<<]
+[2026-05-03 15:22:27,630 : INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-05-03 15:22:27,667 : INFO: common: YAML file params.yaml loaded successfully]
+[2026-05-03 15:22:27,670 : INFO: common: created directory at: artifacts]
+[2026-05-03 15:22:27,671 : INFO: common: created directory at: artifacts/data_ingestion]
+[2026-05-03 15:22:27,674 : INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2026-05-03 15:22:28,538 : INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2026-05-03 15:22:28,538 : INFO: main: >>>>>> Prepare Base Model started <<<<<<]
+[2026-05-03 15:22:28,544 : INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-05-03 15:22:28,544 : INFO: common: YAML file params.yaml loaded successfully]
+[2026-05-03 15:22:28,544 : INFO: common: created directory at: artifacts]
+[2026-05-03 15:22:28,547 : INFO: common: created directory at: artifacts/prepare_base_model]
+[2026-05-03 15:22:29,700 : WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2026-05-03 15:22:30,183 : INFO: main: >>>>>> Prepare Base Model completed <<<<<<
+
+x==========x]
+[2026-05-03 15:22:30,183 : INFO: main: >>>>>> Training started <<<<<<]
+[2026-05-03 15:22:30,187 : INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-05-03 15:22:30,189 : INFO: common: YAML file params.yaml loaded successfully]
+[2026-05-03 15:22:30,189 : INFO: common: created directory at: artifacts]
+[2026-05-03 15:22:30,191 : INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2026-05-03 15:22:30,191 : INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2026-05-03 15:22:30,193 : INFO: common: created directory at: artifacts\training]
+[2026-05-03 15:28:14,813 : INFO: main: >>>>>> Training completed <<<<<<
+
+x==========x]
